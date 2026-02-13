@@ -11,6 +11,8 @@
 
 TODO: Agregar explicacion sobre este ejercicio, las evidencias y concluciones de lo aprendido.
 
+>`Realizado por Luis Leonardo Rodriguez`
+
 ## Repositorio
 
 TODO: Agregar los apuntes de clase sobre como se crea un repositorio y sus principales comandos.
@@ -33,9 +35,15 @@ TODO: Agregar los apuntes de clase sobre como se crea un repositorio y sus princ
 5. **git push -u origin main**: Subir cambios a github.
 6. **git pull**: descargar cambios de un repositorio remoto.
 
+>`Realizado por Emanuel Tamayo`
+
 ## Programa
 
-TODO: Lo vemos la siguiente clase, ¡NO FALTAR!
+### Programa Hola mundo
+
+>El programa se encuentra en la carpeta "Código" y saluda al usuario. Luego le pregunta su nombre y los integrantes de su equipo para que al final este muestre la información del equipo. Las evidencias del programa funcionando están en la carpeta "Evidencias".
+
+>`Realizado por Emanuel Tamayo y Luis Leonardo Rodriguez`
 
 # Creditos
 
