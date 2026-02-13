@@ -9,13 +9,15 @@
 
 ## Command Challenge
 
-TODO: Agregar explicacion sobre este ejercicio, las evidencias y concluciones de lo aprendido.
+1. Entrar a https://cmdchallenge.com/#/hello_world
+2. Para trabajar este programa es importante tener en cuenta todas las pistas o ayudas que la pagina nos brinda.
+   Y nos podemos ayudar de algunos comandos basicos para que nos sirven para guiarnos y resolver cada paso
+3. Este punto nos sirven para ir reforzando y reforzar nuestros conocimientos de comandos basicos 
+   e importantes de la programacion 
 
 >`Realizado por Luis Leonardo Rodriguez`
 
 ## Repositorio
-
-TODO: Agregar los apuntes de clase sobre como se crea un repositorio y sus principales comandos.
 
 ### 1. Crear un repositorio en github.
 1. Entrar a https://github.com  
@@ -43,7 +45,7 @@ TODO: Agregar los apuntes de clase sobre como se crea un repositorio y sus princ
 
 >El programa se encuentra en la carpeta "Código" y saluda al usuario. Luego le pregunta su nombre y los integrantes de su equipo para que al final este muestre la información del equipo. Las evidencias del programa funcionando están en la carpeta "Evidencias".
 
->`Realizado por Emanuel Tamayo y Luis Leonardo Rodriguez`
+>`Realizado por Emanuel Tamayo`
 
 # Creditos
 
